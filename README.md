@@ -19,19 +19,19 @@ Console/Desktop game to fully understand OOP and JavaFX
 
 - OOP, iteration algorithms, JavaFX, drawing diagrams
 
-### [3. Astero Slayer (JavaScript)](https://github.com/karkaplani/java-journey/tree/main/core-java/LinkedListQueue)
+### [3. Astero Slayer (JavaScript)](https://github.com/karkaplani/game-voyage/tree/main/astero-slayer)
 First visual programming experience to learn about graphics
  - Vanilla JS, HTML5 Canvas, animations through basic trigonometry
 
-### [4. Astero Slayer II (C#)](https://github.com/karkaplani/java-journey/tree/main/core-java/ThreadCounter)
+### [4. Astero Slayer II (C#)](https://github.com/karkaplani/game-voyage/tree/main/astero-slayer-II)
 2D desktop game in Unity to practice most game concepts in general
 - Unity, UI design, sound-visual-gameplay development and management
 
-### [5. Ad Rosa (C#)](https://github.com/karkaplani/java-journey/tree/main/core-java/ThreadCounter)
+### [5. Ad Rosa (C#)](https://github.com/karkaplani/game-voyage/tree/main/ad-rosa)
 3D desktop game in Unity as an approach to 3D graphics
 - Basic modeling, disturbing user experience creating
 
-### [6. Triviapo (Kotlin)](https://github.com/karkaplani/java-journey/tree/main/core-java/ThreadCounter)
+### [6. Triviapo (Kotlin)](https://github.com/karkaplani/game-voyage/tree/main/triviapo)
 Android trivia application as the final project for the Mobile Development class
 - Mobile UI design and full-stack development 
 
